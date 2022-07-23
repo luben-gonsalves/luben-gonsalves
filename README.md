@@ -3,7 +3,7 @@
 ## 🙋🏽‍♂️About Me
 
 - 🌱 I’m currently learning **Svelte**
-- 💬 Ask me about **React, Angular, Javascript, HTML, CSS**
+- 💬 Ask me about **React, Angular, Javascript, Typescript, HTML, CSS, **
 - 📫 How to reach me **lubenfrank48@gmail.com**
 - 📄 Know about my experiences [website](https://luben-gonsalves.netlify.app/)
 
