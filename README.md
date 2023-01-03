@@ -1,8 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luben Gonsalves
 =======================================================================================================================================
 
- Frontend Developer | Software Developer
+Frontend Developer
 ------------------
+
+✬ IT professional with over three years of experience in the development and implementation of Web-based, Client/Server applications <br />
+✬ Expertise in Javascript, Svelte, React, Angular and Node.js to build effective web and mobile applications in accordance with client preferences <br />
+✬ Deft at preparing the assets, flow diagrams and working models to build a minimum viable product <br />
+✬ Proficient in designing and development which ensures a smooth collaboration with fellow developers to create efficient and secure web applications for the respective stakeholders <br />
+✬ Knowledge of commercial and open-source software/database engineering tools, design techniques, tools and security standards <br /><br />
+
+
+In my free time, I also tutor web development. <br />
+Feel free to contact me and connect with me, whether it is about web development inquiries or just anything else in life. Always excited to learn something new.
 
 * 🌍  I'm based in Berlin, Germany
 * 🖥️  See my portfolio at [here](http://luben-gonsalves.netlify.app/)
@@ -21,7 +31,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
