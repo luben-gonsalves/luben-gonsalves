@@ -6,8 +6,6 @@ Frontend Developer | Software Developer
 
 ✬ IT professional with over three years of experience in the development and implementation of Web-based, Client/Server applications <br />
 ✬ Expertise in Javascript, Svelte, React, Angular and Node.js to build effective web and mobile applications in accordance with client preferences <br />
-✬ Deft at preparing the assets, flow diagrams and working models to build a minimum viable product <br />
-✬ Proficient in designing and development which ensures a smooth collaboration with fellow developers to create efficient and secure web applications for the respective stakeholders <br />
 ✬ Knowledge of commercial and open-source software/database engineering tools, design techniques, tools and security standards <br /><br />
 
 
