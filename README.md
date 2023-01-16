@@ -15,7 +15,7 @@ Feel free to contact me and connect with me, whether it is about web development
 * 🌍  I'm based in Berlin, Germany
 * 🖥️  See my portfolio at [here](http://luben-gonsalves.netlify.app/)
 * ✉️  You can contact me at [lubengonsalves@gmail.com](mailto:lubengonsalves@gmail.com)
-* 🧠  I'm learning everything about Javascript 
+* 🧠  I'm learning everything about Javascript.
 
 ### Skills
 
