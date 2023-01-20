@@ -4,13 +4,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | Software Developer
 ------------------
 
-✬ IT professional with over three years of experience in the development and implementation of Web-based, Client/Server applications <br />
-✬ Expertise in Javascript, Svelte, React, Angular and Node.js to build effective web and mobile applications in accordance with client preferences <br />
-✬ Knowledge of commercial and open-source software/database engineering tools, design techniques, tools and security standards <br /><br />
+✬ IT professional with over three years of experience in the development and implementation of Web-based, Client/Server applications
+ 
+✬ Expertise in Javascript, Svelte, React, Angular and Node.js to build a responsive web application in accordance with client preferences
 
+✬ I am self-sufficient and able to work independently without the need for constant guidance or supervision.
 
-In my free time, I also tutor web development. <br />
-Feel free to contact me and connect with me, whether it is about web development inquiries or just anything else in life. Always excited to learn something new.
+✬ Knowledge of commercial and open-source software/database engineering tools, design techniques, tools and security standards
+
+During my leisure time, I engage in the activity of mentoring and teaching web development to individuals seeking to learn the skill.
+
+I am open to connecting with others and would welcome any inquiries, whether related to web development or other topics. I am always eager to learn and expand my knowledge. Please feel free to reach out to me.
+
+Email me at lubengonsalves@gmail.com
+
 
 * 🌍  I'm based in Berlin, Germany
 * 🖥️  See my portfolio at [here](http://luben-gonsalves.netlify.app/)
