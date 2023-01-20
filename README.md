@@ -16,8 +16,6 @@ During my leisure time, I engage in the activity of mentoring and teaching web d
 
 I am open to connecting with others and would welcome any inquiries, whether related to web development or other topics. I am always eager to learn and expand my knowledge. Please feel free to reach out to me.
 
-Email me at lubengonsalves@gmail.com
-
 
 * 🌍  I'm based in Berlin, Germany
 * 🖥️  See my portfolio at [here](http://luben-gonsalves.netlify.app/)
