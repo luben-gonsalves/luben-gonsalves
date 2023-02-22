@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer | Software Developer
 ------------------
 
-✬ IT professional with over 4 years of experience in the development and implementation of Web-based, Client/Server applications
+✬ IT professional with 4 years of experience in the development and implementation of Web-based, Client/Server applications
  
 ✬ Expertise in Javascript, Svelte, React, Angular and Node.js to build a responsive web application in accordance with client preferences
 
