@@ -40,9 +40,6 @@ I am open to connecting with others and would welcome any inquiries, whether rel
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/luben-gonsalves" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Github Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=luben-gonsalves&theme=dark)](https://git.io/streak-stats)
