@@ -12,13 +12,10 @@ Frontend Developer | Software Developer
 
 ✬ Knowledge of commercial and open-source software/database engineering tools, design techniques, tools and security standards
 
-During my leisure time, I engage in the activity of mentoring and teaching web development to individuals seeking to learn the skill.
-
 I am open to connecting with others and would welcome any inquiries, whether related to web development or other topics. I am always eager to learn and expand my knowledge. Please feel free to reach out to me.
 
 
 * 🌍  I'm based in Berlin, Germany
-* 🖥️  See my portfolio at [here](http://luben-gonsalves.netlify.app/)
 * ✉️  You can contact me at [lubengonsalves@gmail.com](mailto:lubengonsalves@gmail.com)
 * 🧠  I'm learning everything about Javascript.
 
